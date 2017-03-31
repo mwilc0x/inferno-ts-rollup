@@ -1,4 +1,5 @@
-import Inferno from 'inferno';
+import { render } from 'inferno';
+import createElement from 'inferno-create-element';
 import Menu from './menu';
 
 function App() {
@@ -11,11 +12,11 @@ function App() {
 }
 
 // wrapper for inferno render
-function render() {
-    Inferno.render(
+function renderApp() {
+    render(
         <App />,
         document.getElementById("root")
     );
 }
 
-render();
+renderApp();

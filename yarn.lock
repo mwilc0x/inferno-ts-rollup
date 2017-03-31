@@ -948,6 +948,23 @@ imurmurhash@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/imurmurhash/-/imurmurhash-0.1.4.tgz#9218b9b2b928a238b13dc4fb6b6d576f231453ea"
 
+inferno-component@^1.5.6:
+  version "1.5.6"
+  resolved "https://registry.yarnpkg.com/inferno-component/-/inferno-component-1.5.6.tgz#788928171f8c2b88a6a03aa0ed89a58e2f4fab7e"
+  dependencies:
+    inferno "^1.5.6"
+    inferno-shared "^1.5.6"
+    inferno-vnode-flags "^1.5.1"
+
+inferno-create-element@^1.5.6:
+  version "1.5.6"
+  resolved "https://registry.yarnpkg.com/inferno-create-element/-/inferno-create-element-1.5.6.tgz#900ec84e2dba38c1df15236b0ffd473999291659"
+  dependencies:
+    inferno "^1.5.6"
+    inferno-component "^1.5.6"
+    inferno-shared "^1.5.6"
+    inferno-vnode-flags "^1.5.1"
+
 inferno-shared@^1.5.6:
   version "1.5.6"
   resolved "https://registry.yarnpkg.com/inferno-shared/-/inferno-shared-1.5.6.tgz#16b8af21605ff26e1474d96d198fba44fe3d9657"
