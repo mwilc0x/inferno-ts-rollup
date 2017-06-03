@@ -5,7 +5,7 @@
   "author": "mjw56",
   "license": "MIT",
   "dependencies": {
-    "inferno": "^1.5.6"
+    "inferno": "^3.3.1"
   },
   "devDependencies": {
     "babel-plugin-inferno": "^1.9.0",
