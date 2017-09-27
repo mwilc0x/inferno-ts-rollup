@@ -5,7 +5,7 @@ import Menu from './menu';
 function App() {
   return (
     <div>
-      <h1>Hello Inferno</h1>
+      <h1 className="title">Hello Inferno</h1>
       <Menu />
     </div>
   );
